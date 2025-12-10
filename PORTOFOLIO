@@ -1,0 +1,41 @@
+C# & .NET Projects Portfolio
+
+This repository contains several C# projects I developed during my training with the .NET Framework. These projects showcase my growing expertise in back-end programming, data management, and full-stack web development using ASP.NET MVC.
+
+Projects Overview
+
+🚗 Car Insurance Quote App  
+An ASP.NET MVC web application that calculates personalized car insurance quotes based on user input and a set of business rules. The app collects driver and vehicle details to generate accurate insurance pricing.
+
+*Key Features:*  
+- Dynamic quote calculation logic considering driver age, vehicle details, driving history, and coverage type  
+- Admin dashboard for staff to view and manage all issued insurance quotes  
+- Form input validation to ensure data integrity and user-friendly error feedback  
+- Persistent data storage using SQL Server and Entity Framework for reliable data management  
+
+*Technologies Used:*  
+ASP.NET MVC, C#, Entity Framework, SQL Server
+
+---
+
+🏈 NFL Statistics Viewer  
+A web-based application designed to track and display NFL player and team statistics, tailored for fantasy football players and sports enthusiasts.
+
+*Key Features:*
+- Database-driven storage and retrieval of detailed player and team stats  
+- Use of the Code First approach with Entity Framework to create and manage the database schema  
+- Responsive and interactive user interface enabling easy data exploration and visualization  
+
+*Technologies Used:*  
+ASP.NET MVC, Entity Framework, C#, LINQ
+
+---
+
+Skills & Technologies Developed
+
+- Strong understanding of C# programming fundamentals and advanced features  
+- Designing and implementing web applications using the ASP.NET MVC framework  
+- Data modeling, database design, and access using Entity Framework with Code First workflow  
+- Writing efficient LINQ queries for data retrieval and manipulation  
+- Debugging and troubleshooting applications using Visual Studio tools  
+- Source control management with
